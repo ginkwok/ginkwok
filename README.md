@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="https://github.com/ginkwok">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginkwok&layout=compact&hide=html&langs_count=8" />
+</a>
+
+<a href="https://github.com/ginkwok">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=ginkwok&count_private=true&show_icons=true" />
+</a>
+
 <!--
 **ginkwok/ginkwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
